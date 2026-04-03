@@ -16,6 +16,9 @@
       <button onclick="addTask()">Add</button>
     </div>
 
+    <!-- ✅ Extra line added -->
+    <p id="taskCount">Total Tasks: 0</p>
+
     <ul id="taskList"></ul>
   </div>
 
